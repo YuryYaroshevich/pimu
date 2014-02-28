@@ -1,10 +1,9 @@
 package thomsonreuters.news.swift.metadata.pimu.bcpprocessing;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
@@ -13,6 +12,8 @@ import java.util.Scanner;
 
 public class BCPAudit {
 	private String auditFilePath;
+	
+	public static final int EMPTY_AUDIT = -1;
 
 	public BCPAudit(String auditFilePath) {
 		this.auditFilePath = auditFilePath;
@@ -27,9 +28,12 @@ public class BCPAudit {
 	}
 
 	public int readBCPRowsNum() throws FileNotFoundException {
-		try (Scanner scan = new Scanner(new BufferedReader(new FileReader(
-				auditFilePath)))) {
-			return scan.nextInt();
+		try (Scanner scan = new Scanner(new FileInputStream(auditFilePath))) {
+			if (scan.hasNext()) {
+				return scan.nextInt();
+			} else {
+				return EMPTY_AUDIT;
+			}			
 		}
 	}
 }
