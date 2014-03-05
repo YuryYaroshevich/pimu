@@ -4,23 +4,53 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class DbContext {
 	private Connection connection;
 
-	protected Connection openConnection() throws SQLException, ClassNotFoundException {
-		if (isValidConnection()) {
-			return connection;
-		}
+	protected Logger logger = LoggerFactory.getLogger(DataLoader.class);
 
-		Class.forName("oracle.jdbc.OracleDriver");
-		connection = DriverManager.getConnection(
-				"jdbc:oracle:thin:@localhost:1521:xe",//"md@//10.242.136.242:1521/PRGNPRD.ime.reuters.com", 
-				"system",//"md",
-				"1234");//"taxman");
-		return connection;
+	private String driverName;
+	private String connectionString;
+	private String userName;
+	private String password;
+
+	public DbContext(String driverName, String connectionString,
+			String userName, String password) {
+		this.driverName = driverName;
+		this.connectionString = connectionString;
+		this.userName = userName;
+		this.password = password;
 	}
 
-	private boolean isValidConnection() throws SQLException {
-		return (connection != null) && (connection.isValid(0));
+	protected Connection openConnection(int attemptsNum) throws Exception {
+		try {
+			if (connection != null) {
+				return connection;
+			}
+
+			Class.forName(driverName);
+
+			connection = DriverManager.getConnection(connectionString,
+					userName, password);
+			return connection;
+		} catch (ClassNotFoundException e) {
+			logger.error(String.format("Couldn't load database driver - %s",
+					driverName), e);
+			throw e;
+		} catch (SQLException e) {
+			attemptsNum--;
+			if (attemptsNum > 0) {
+				logger.error(
+						String.format(
+								"Couldn't connect to database. Will try %s more times.",
+								attemptsNum), e);
+				return openConnection(attemptsNum);
+			}
+			logger.error(e.getMessage(), e);
+			throw new DbContextException("Couldn't connect to database.", e);
+		}
 	}
 }

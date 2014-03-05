@@ -18,31 +18,58 @@ import thomsonreuters.news.swift.metadata.pimu.bcpprocessing.editing.BCPRowEdito
 public class BCP {
 	private BCPHeader header;
 	private List<BCPRow> rows;
+	
+	private String version;
+	
 	private String rowTerm;
+	private String rowTermRegexp;
 	private String fieldTerm;
+	private String fieldTermRegexp;
+	
+	private boolean empty;
 
 	private List<BCPEditor> editors = new ArrayList<BCPEditor>();
 	private List<BCPRowEditor> rowEditors = new ArrayList<BCPRowEditor>();
 
-	@SuppressWarnings("resource")
-	public BCP(InputStream is, String fieldTerm, String fieldTermRegexp,
-			String rowTerm, String rowTermRegexp) throws IOException {
+	public BCP(String fieldTerm, String fieldTermRegexp,
+			String rowTerm, String rowTermRegexp) {
 		this.rowTerm = rowTerm;
+		this.rowTermRegexp = rowTermRegexp;
 		this.fieldTerm = fieldTerm;
+		this.fieldTermRegexp = fieldTermRegexp;
+		this.empty = true;
+	}
+		 
+	public String getVersion() {
+		return version;
+	}
 
-		Scanner scanner = new Scanner(new BufferedInputStream(is));
-		scanner.useDelimiter(Pattern.compile(rowTermRegexp));
-		
-		String header = scanner.next();
-		Pattern fieldTermPattern = Pattern.compile(fieldTermRegexp);
-		this.header = new BCPHeader(header, fieldTerm, fieldTermPattern);
+	public void setVersion(String version) {
+		this.version = version;
+	}
 
-		rows = new ArrayList<BCPRow>();
-		while (scanner.hasNext()) {
-			String row = scanner.next();
-			BCPRow bcpRow = new BCPRow(row, fieldTerm, fieldTermPattern);
-			rows.add(bcpRow);
+	public void makeBCPTree(InputStream is) {
+		try (Scanner scanner = new Scanner(new BufferedInputStream(is));) {
+			scanner.useDelimiter(Pattern.compile(rowTermRegexp));
+			if (scanner.hasNext()) {
+				empty = false;
+				
+				String header = scanner.next();
+				Pattern fieldTermPattern = Pattern.compile(fieldTermRegexp);
+				this.header = new BCPHeader(header, fieldTerm, fieldTermPattern);
+
+				rows = new ArrayList<BCPRow>();
+				while (scanner.hasNext()) {
+					String row = scanner.next();
+					BCPRow bcpRow = new BCPRow(row, fieldTerm, fieldTermPattern);
+					rows.add(bcpRow);
+				}
+			}
 		}
+	}
+
+	public boolean isEmpty() {
+		return empty;
 	}
 	
 	public void setRowTerm(String rowTerm) {
@@ -52,21 +79,24 @@ public class BCP {
 	public void setFieldTerm(String fieldTerm) {
 		this.fieldTerm = fieldTerm;
 	}
-	
+
 	public void disableHeader() {
 		header.disabled = true;
 	}
-	
+
 	public void write(String bcpPath) throws IOException {
+		if (isEmpty()) {
+			return;
+		}
 		try (Writer writer = new BufferedWriter(new OutputStreamWriter(
 				new FileOutputStream(bcpPath)))) {
 			editBCP();
 			if (!header.disabled) {
-				writer.write(String.format("%s%s", header.toString(), rowTerm));
-			}			
+				writer.write(String.format("%s%s", header, rowTerm));
+			}
 			for (BCPRow row : rows) {
 				editRow(row);
-				writer.write(String.format("%s%s", row.toString(), rowTerm));
+				writer.write(String.format("%s%s", row, rowTerm));
 			}
 		}
 	}
@@ -84,18 +114,18 @@ public class BCP {
 	public void addRowEditor(BCPRowEditor rowEditor) {
 		rowEditors.add(rowEditor);
 	}
-	
+
 	private void editRow(BCPRow row) {
 		for (BCPRowEditor rowEditor : rowEditors) {
 			row.setFieldTerm(fieldTerm);
 			rowEditor.editRow(row);
 		}
 	}
-	
+
 	public int getColumnNumber(String columnName) {
 		return header.getColumnNumber(columnName);
 	}
-	
+
 	public BCPHeader getHeader() {
 		return header;
 	}
@@ -123,7 +153,7 @@ public class BCP {
 				fields.add(scanner.next());
 			}
 		}
-		
+
 		public void setFieldTerm(String fieldTerm) {
 			this.fieldTerm = fieldTerm;
 		}
@@ -146,7 +176,7 @@ public class BCP {
 
 	public static class BCPHeader extends BCPRow {
 		private boolean disabled;
-		
+
 		BCPHeader(String header, String fieldTerm, Pattern fieldTermPattern) {
 			super(header, fieldTerm, fieldTermPattern);
 			disabled = false;
@@ -155,7 +185,7 @@ public class BCP {
 		public int getColumnNumber(String columnName) {
 			return getFields().indexOf(columnName);
 		}
-		
+
 		public void setColumnName(int columnNumber, String newName) {
 			getFields().set(columnNumber, newName);
 		}

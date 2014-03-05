@@ -1,0 +1,945 @@
+2014-03-05 12:25:31,177 INFO - Application is startet.------------
+2014-03-05 12:25:31,182 INFO - Transferring zip file from ftp is started.
+2014-03-05 12:25:31,196 INFO - Connection to ftp is started.
+2014-03-05 12:25:32,146 INFO - Connection to ftp has been succeeded.
+2014-03-05 12:25:33,062 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 12:25:36,106 INFO - BCP tree was build.
+2014-03-05 12:25:36,106 INFO - Writing bcp file in csv format.
+2014-03-05 12:25:36,374 INFO - Loading csv file content to database.
+2014-03-05 12:25:36,695 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 12:25:37,187 INFO - pimu_mapping2 was cleaned.
+2014-03-05 12:25:37,413 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220
+2014-03-05 12:25:37,454 INFO - Statuses were changed.
+2014-03-05 12:25:37,456 INFO - Application finished its work.------------
+2014-03-05 12:26:21,928 INFO - Application is startet.------------
+2014-03-05 12:26:21,933 INFO - Transferring zip file from ftp is started.
+2014-03-05 12:26:21,947 INFO - Connection to ftp is started.
+2014-03-05 12:26:22,897 INFO - Connection to ftp has been succeeded.
+2014-03-05 12:26:23,818 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 12:26:27,403 INFO - BCP tree was build.
+2014-03-05 12:26:27,403 INFO - Writing bcp file in csv format.
+2014-03-05 12:26:27,686 INFO - Loading csv file content to database.
+2014-03-05 12:26:28,005 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 12:26:28,488 INFO - pimu_mapping1 was cleaned.
+2014-03-05 12:26:28,698 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220
+2014-03-05 12:26:28,738 INFO - Statuses were changed.
+2014-03-05 12:26:28,740 INFO - Application finished its work.------------
+2014-03-05 12:33:55,857 INFO - Application is startet.------------
+2014-03-05 12:33:55,862 INFO - Transferring zip file from ftp is started.
+2014-03-05 12:33:55,876 INFO - Connection to ftp is started.
+2014-03-05 12:34:00,216 INFO - Connection to ftp has been succeeded.
+2014-03-05 12:34:01,135 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 12:34:04,382 INFO - BCP tree was build.
+2014-03-05 12:34:04,383 INFO - Writing bcp file in csv format.
+2014-03-05 12:34:04,652 INFO - Loading csv file content to database.
+2014-03-05 12:34:04,975 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 12:34:05,463 INFO - pimu_mapping2 was cleaned.
+2014-03-05 12:34:05,763 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220
+2014-03-05 12:34:05,804 INFO - Statuses were changed.
+2014-03-05 12:34:05,805 INFO - Application finished its work.------------
+2014-03-05 12:45:48,941 INFO - Application is startet.------------
+2014-03-05 12:45:48,946 INFO - Transferring zip file from ftp is started.
+2014-03-05 12:45:48,960 INFO - Connection to ftp is started.
+2014-03-05 12:45:53,293 INFO - Connection to ftp has been succeeded.
+2014-03-05 12:45:54,221 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 12:45:57,440 INFO - BCP tree was build.
+2014-03-05 12:45:57,441 INFO - Writing bcp file in csv format.
+2014-03-05 12:45:57,708 INFO - Loading csv file content to database.
+2014-03-05 12:45:58,026 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 12:45:58,515 INFO - pimu_mapping1 was cleaned.
+2014-03-05 12:45:58,749 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220
+2014-03-05 12:45:58,788 INFO - Statuses were changed.
+2014-03-05 12:45:58,789 INFO - Application finished its work.------------
+2014-03-05 12:46:12,402 INFO - Application is startet.------------
+2014-03-05 12:46:12,406 INFO - Transferring zip file from ftp is started.
+2014-03-05 12:46:12,420 INFO - Connection to ftp is started.
+2014-03-05 12:46:13,372 INFO - Connection to ftp has been succeeded.
+2014-03-05 12:46:14,286 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 12:46:18,077 INFO - BCP tree was build.
+2014-03-05 12:46:18,077 INFO - Writing bcp file in csv format.
+2014-03-05 12:46:18,344 INFO - Loading csv file content to database.
+2014-03-05 12:46:18,664 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 12:46:19,154 INFO - pimu_mapping2 was cleaned.
+2014-03-05 12:46:19,370 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220
+2014-03-05 12:46:19,411 INFO - Statuses were changed.
+2014-03-05 12:46:19,413 INFO - Application finished its work.------------
+2014-03-05 12:54:37,204 INFO - Application is startet.------------
+2014-03-05 12:54:37,209 INFO - Transferring zip file from ftp is started.
+2014-03-05 12:54:37,223 INFO - Connection to ftp is started.
+2014-03-05 12:54:38,172 INFO - Connection to ftp has been succeeded.
+2014-03-05 12:54:39,090 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 12:54:42,295 INFO - BCP tree was build.
+2014-03-05 12:54:42,296 INFO - Writing bcp file in csv format.
+2014-03-05 12:54:42,578 INFO - Loading csv file content to database.
+2014-03-05 12:54:42,900 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 12:54:43,394 INFO - pimu_mapping1 was cleaned.
+2014-03-05 12:54:43,630 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220
+2014-03-05 12:54:43,630 INFO - Mapping is valid.
+2014-03-05 12:54:43,671 INFO - Statuses were changed.
+2014-03-05 12:54:43,701 INFO - Application finished its work.------------
+2014-03-05 15:04:01,705 INFO - Application is started.------------
+2014-03-05 15:04:01,712 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:04:01,712 DEBUG - Getting property ftp.ip from properties-file.
+2014-03-05 15:04:01,712 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property zip.dateRegexp from properties-file.
+2014-03-05 15:04:01,713 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:04:01,714 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:04:01,715 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:04:01,715 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:04:01,715 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:04:01,715 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:04:01,729 INFO - Connection to ftp is started.
+2014-03-05 15:04:06,065 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:04:06,978 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:04:10,186 INFO - BCP tree was build.
+2014-03-05 15:04:10,186 INFO - Writing bcp file in csv format.
+2014-03-05 15:04:10,489 INFO - Loading csv file content to database.
+2014-03-05 15:04:10,821 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 15:04:11,318 INFO - pimu_mapping2 was cleaned.
+2014-03-05 15:04:11,764 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220
+2014-03-05 15:04:11,764 INFO - Mapping is valid.
+2014-03-05 15:04:11,802 INFO - Statuses were changed.
+2014-03-05 15:04:11,804 INFO - Application finished its work.------------
+2014-03-05 15:20:31,156 INFO - Application is started.------------
+2014-03-05 15:20:31,163 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:20:31,164 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:20:31,164 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:20:31,164 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:20:31,164 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:20:31,164 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:20:31,164 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:20:31,164 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:20:31,164 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:20:31,165 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:20:31,166 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:20:31,166 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:20:31,166 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:20:31,166 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:20:31,166 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:20:31,166 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:20:31,166 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:20:31,167 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:20:31,180 INFO - Connection to ftp is started.
+2014-03-05 15:20:32,126 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:20:32,996 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:20:36,575 INFO - BCP tree was build.
+2014-03-05 15:20:36,575 INFO - Writing bcp file in csv format.
+2014-03-05 15:20:36,868 INFO - Loading csv file content to database.
+2014-03-05 15:20:37,187 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 15:20:37,693 INFO - pimu_mapping1 was cleaned.
+2014-03-05 15:20:38,002 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220
+2014-03-05 15:20:38,002 INFO - Mapping is valid.
+2014-03-05 15:20:38,044 INFO - Statuses were changed.
+2014-03-05 15:20:38,046 INFO - Application finished its work.------------
+2014-03-05 15:34:48,574 INFO - Application is started.------------
+2014-03-05 15:34:48,580 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:34:48,581 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:34:48,581 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:34:48,581 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:34:48,581 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:34:48,581 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:34:48,581 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:34:48,581 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:34:48,581 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:34:48,582 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:34:48,583 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:34:48,583 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:34:48,583 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:34:48,583 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:34:48,583 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:34:48,583 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:34:48,583 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:34:48,583 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:34:48,584 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:34:48,598 INFO - Connection to ftp is started.
+2014-03-05 15:34:49,544 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:34:50,464 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:35:03,063 INFO - BCP tree was build.
+2014-03-05 15:35:03,064 INFO - Writing bcp file in csv format.
+2014-03-05 15:35:03,336 INFO - Loading csv file content to database.
+2014-03-05 15:35:03,665 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 15:35:04,163 INFO - pimu_mapping2 was cleaned.
+2014-03-05 15:35:04,587 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220
+2014-03-05 15:35:04,587 INFO - Mapping is valid.
+2014-03-05 15:35:04,633 INFO - Statuses were changed.
+2014-03-05 15:35:04,635 INFO - Application finished its work.------------
+2014-03-05 15:36:43,000 INFO - Application is started.------------
+2014-03-05 15:36:43,006 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:36:43,006 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:36:43,006 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:36:43,006 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:36:43,006 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:36:43,007 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:36:43,008 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:36:43,009 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:36:43,009 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:36:43,009 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:36:43,010 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:36:43,023 INFO - Connection to ftp is started.
+2014-03-05 15:36:47,350 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:36:48,264 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:36:51,484 INFO - BCP tree was build.
+2014-03-05 15:36:51,484 INFO - Writing bcp file in csv format.
+2014-03-05 15:38:17,025 INFO - Application is started.------------
+2014-03-05 15:38:17,031 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:38:17,031 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:38:17,031 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:38:17,031 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:38:17,032 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:38:17,033 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:38:17,034 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:38:17,034 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:38:17,034 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:38:17,035 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:38:17,048 INFO - Connection to ftp is started.
+2014-03-05 15:38:17,995 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:38:18,908 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:38:24,916 INFO - BCP tree was build.
+2014-03-05 15:38:24,917 INFO - Writing bcp file in csv format.
+2014-03-05 15:38:56,614 INFO - Application is started.------------
+2014-03-05 15:38:56,620 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:38:56,620 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:38:56,620 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:38:56,620 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:38:56,620 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:38:56,621 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:38:56,622 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:38:56,623 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:38:56,623 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:38:56,623 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:38:56,623 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:38:56,637 INFO - Connection to ftp is started.
+2014-03-05 15:38:57,583 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:38:58,489 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:39:01,675 INFO - BCP tree was build.
+2014-03-05 15:39:01,675 INFO - Writing bcp file in csv format.
+2014-03-05 15:40:24,819 INFO - Application is started.------------
+2014-03-05 15:40:24,825 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:40:24,825 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:40:24,825 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:40:24,825 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:40:24,825 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:40:24,825 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:40:24,826 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:40:24,827 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:40:24,828 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:40:24,828 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:40:24,841 INFO - Connection to ftp is started.
+2014-03-05 15:40:25,787 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:40:26,712 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:40:29,927 INFO - BCP tree was build.
+2014-03-05 15:40:29,927 INFO - Writing bcp file in csv format.
+2014-03-05 15:43:43,110 INFO - Application is started.------------
+2014-03-05 15:43:43,116 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:43:43,117 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:43:43,117 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:43:43,117 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:43:43,117 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:43:43,117 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:43:43,117 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:43:43,117 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:43:43,117 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:43:43,118 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:43:43,119 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:43:43,119 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:43:43,119 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:43:43,119 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:43:43,119 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:43:43,119 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:43:43,119 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:43:43,119 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:43:43,120 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:43:43,133 INFO - Connection to ftp is started.
+2014-03-05 15:43:44,081 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:43:44,997 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:43:51,746 INFO - BCP tree was build.
+2014-03-05 15:43:51,746 INFO - Writing bcp file in csv format.
+2014-03-05 15:44:22,513 INFO - Application is started.------------
+2014-03-05 15:44:22,519 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:44:22,520 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:44:22,520 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:44:22,521 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:44:22,522 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:44:22,522 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:44:22,522 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:44:22,522 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:44:22,522 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:44:22,522 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:44:22,522 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:44:22,523 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:44:22,537 INFO - Connection to ftp is started.
+2014-03-05 15:44:23,484 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:44:24,405 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:44:27,439 INFO - BCP tree was build.
+2014-03-05 15:44:27,440 INFO - Writing bcp file in csv format.
+2014-03-05 15:45:48,495 INFO - Application is started.------------
+2014-03-05 15:45:48,502 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:45:48,502 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:45:48,502 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:45:48,502 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:45:48,502 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:45:48,502 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:45:48,502 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:45:48,502 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:45:48,503 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:45:48,504 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:45:48,504 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:45:48,505 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:45:48,518 INFO - Connection to ftp is started.
+2014-03-05 15:46:01,806 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:46:07,160 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:46:10,953 INFO - BCP tree was build.
+2014-03-05 15:46:10,953 INFO - Writing bcp file in csv format.
+2014-03-05 15:46:11,855 INFO - Loading csv file content to database.
+2014-03-05 15:46:12,177 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 15:46:12,681 INFO - pimu_mapping1 was cleaned.
+2014-03-05 15:46:12,926 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220
+2014-03-05 15:46:12,926 INFO - Mapping is valid.
+2014-03-05 15:46:12,965 INFO - Statuses were changed.
+2014-03-05 15:46:12,966 INFO - Application finished its work.------------
+2014-03-05 15:48:34,281 INFO - Application is started.------------
+2014-03-05 15:48:34,287 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:48:34,287 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:48:34,287 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:48:34,287 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:48:34,287 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:48:34,287 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:48:34,287 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:48:34,288 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:48:34,289 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:48:34,290 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:48:34,290 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:48:34,303 INFO - Connection to ftp is started.
+2014-03-05 15:48:38,635 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:48:39,549 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:48:45,581 INFO - BCP tree was build.
+2014-03-05 15:48:45,581 INFO - Writing bcp file in csv format.
+2014-03-05 15:48:45,852 INFO - Loading csv file content to database.
+2014-03-05 15:48:46,175 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 15:48:46,659 INFO - pimu_mapping2 was cleaned.
+2014-03-05 15:48:46,899 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220
+2014-03-05 15:48:46,900 INFO - Mapping is valid.
+2014-03-05 15:48:46,939 INFO - Statuses were changed.
+2014-03-05 15:48:46,941 INFO - Application finished its work.------------
+2014-03-05 15:58:10,381 INFO - Application is started.------------
+2014-03-05 15:58:10,387 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 15:58:10,388 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 15:58:10,388 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 15:58:10,388 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 15:58:10,388 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 15:58:10,388 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 15:58:10,388 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 15:58:10,388 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 15:58:10,388 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property db.user from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property db.password from properties-file.
+2014-03-05 15:58:10,389 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 15:58:10,390 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 15:58:10,390 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 15:58:10,390 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 15:58:10,390 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 15:58:10,390 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 15:58:10,390 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 15:58:10,391 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 15:58:10,391 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 15:58:10,391 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 15:58:10,391 INFO - Transferring zip file from ftp is started.
+2014-03-05 15:58:10,405 INFO - Connection to ftp is started.
+2014-03-05 15:58:14,738 INFO - Connection to ftp has been succeeded.
+2014-03-05 15:58:15,651 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 15:58:24,361 INFO - BCP tree was build.
+2014-03-05 15:58:24,361 INFO - Writing bcp file in csv format.
+2014-03-05 15:58:24,648 INFO - Loading csv file content to database.
+2014-03-05 15:58:24,966 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 15:58:25,453 INFO - pimu_mapping1 was cleaned.
+2014-03-05 15:58:25,693 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220
+2014-03-05 15:58:25,693 INFO - Mapping is valid. Valid ratio is 0.05
+2014-03-05 15:58:25,732 INFO - Statuses were changed.
+2014-03-05 15:58:25,734 INFO - Application finished its work.------------
+2014-03-05 16:17:52,500 INFO - Application is started.------------
+2014-03-05 16:17:52,506 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:17:52,506 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:17:52,506 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:17:52,506 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:17:52,506 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:17:52,506 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:17:52,506 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:17:52,507 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:17:52,508 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:17:52,508 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:17:52,508 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:17:52,508 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:17:52,508 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:17:52,508 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:17:52,508 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:17:52,509 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:17:52,509 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:17:52,509 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:17:52,509 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:17:52,510 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:17:52,523 INFO - Connection to ftp is started.
+2014-03-05 16:17:53,473 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:17:54,386 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:17:57,588 INFO - BCP tree was build.
+2014-03-05 16:17:57,589 INFO - Writing bcp file in csv format.
+2014-03-05 16:17:57,872 INFO - Loading csv file content to database.
+2014-03-05 16:17:58,192 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 16:17:58,720 INFO - pimu_mapping2 was cleaned.
+2014-03-05 16:17:58,967 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220
+2014-03-05 16:17:58,967 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:17:59,006 INFO - Statuses were changed.
+2014-03-05 16:17:59,008 INFO - Application finished its work.------------
+2014-03-05 16:21:25,563 INFO - Application is started.------------
+2014-03-05 16:21:25,569 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:21:25,569 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:21:25,569 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:21:25,569 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:21:25,570 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:21:25,571 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:21:25,572 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:21:25,572 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:21:25,572 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:21:25,572 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:21:25,572 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:21:25,572 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:21:25,573 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:21:25,586 INFO - Connection to ftp is started.
+2014-03-05 16:21:26,535 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:21:27,451 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:21:30,675 INFO - BCP tree was build.
+2014-03-05 16:21:30,676 INFO - Writing bcp file in csv format.
+2014-03-05 16:21:30,958 INFO - Loading csv file content to database.
+2014-03-05 16:21:31,282 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 16:21:31,879 INFO - pimu_mapping1 was cleaned.
+2014-03-05 16:21:32,120 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220.
+2014-03-05 16:21:32,120 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:21:32,159 INFO - Statuses were changed.
+2014-03-05 16:21:32,160 INFO - Application finished its work.------------
+2014-03-05 16:30:06,478 INFO - Application is started.------------
+2014-03-05 16:30:06,484 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:30:06,484 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:30:06,485 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:30:06,486 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:30:06,487 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:30:06,487 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:30:06,487 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:30:06,487 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:30:06,487 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:30:06,487 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:30:06,488 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:30:06,488 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:30:06,501 INFO - Connection to ftp is started.
+2014-03-05 16:30:07,456 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:30:08,353 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:30:12,860 INFO - BCP tree was build.
+2014-03-05 16:30:12,860 INFO - Writing bcp file in csv format.
+2014-03-05 16:30:13,146 INFO - Loading csv file content to database.
+2014-03-05 16:30:13,467 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 16:30:13,960 INFO - pimu_mapping2 was cleaned.
+2014-03-05 16:30:14,007 INFO - Inactive table - pimu_mapping2, number of rows = 0. Active table - pimu_mapping1, number of rows = 28220.
+2014-03-05 16:30:14,007 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:30:14,046 INFO - Statuses were changed.
+2014-03-05 16:30:14,049 INFO - Application finished its work.------------
+2014-03-05 16:33:16,183 INFO - Application is started.------------
+2014-03-05 16:33:16,189 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:33:16,189 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:33:16,189 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:33:16,189 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:33:16,189 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:33:16,190 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:33:16,191 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:33:16,191 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:33:16,191 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:33:16,191 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:33:16,191 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:33:16,191 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:33:16,191 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:33:16,192 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:33:16,192 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:33:16,192 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:33:16,192 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:33:16,192 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:33:16,192 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:33:16,193 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:33:16,206 INFO - Connection to ftp is started.
+2014-03-05 16:33:17,154 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:33:18,067 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:33:21,286 INFO - BCP tree was build.
+2014-03-05 16:33:21,287 INFO - Writing bcp file in csv format.
+2014-03-05 16:33:21,570 INFO - Loading csv file content to database.
+2014-03-05 16:33:21,890 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 16:33:22,372 INFO - pimu_mapping1 was cleaned.
+2014-03-05 16:33:22,373 INFO - sqlldr.ctl file was created.
+2014-03-05 16:33:22,373 INFO - runSqlldr.bat file was created.
+2014-03-05 16:33:22,624 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 0.
+2014-03-05 16:40:12,761 INFO - Application is started.------------
+2014-03-05 16:40:12,768 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:40:12,768 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:40:12,768 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:40:12,768 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:40:12,768 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:40:12,768 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:40:12,768 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:40:12,768 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:40:12,769 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:40:12,770 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:40:12,770 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:40:12,770 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:40:12,770 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:40:12,770 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:40:12,770 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:40:12,770 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:40:12,771 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:40:12,771 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:40:12,771 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:40:12,772 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:40:12,785 INFO - Connection to ftp is started.
+2014-03-05 16:40:13,732 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:40:14,645 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:40:17,845 INFO - BCP tree was build.
+2014-03-05 16:40:17,846 INFO - Writing bcp file in csv format.
+2014-03-05 16:40:18,125 INFO - Loading csv file content to database.
+2014-03-05 16:40:18,446 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 16:40:18,451 INFO - pimu_mapping2 was cleaned.
+2014-03-05 16:40:18,452 INFO - sqlldr.ctl file was created.
+2014-03-05 16:40:18,452 INFO - runSqlldr.bat file was created.
+2014-03-05 16:40:18,704 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220.
+2014-03-05 16:40:18,705 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:40:18,744 INFO - Statuses were changed.
+2014-03-05 16:40:18,745 INFO - Application finished its work.------------
+2014-03-05 16:40:22,956 INFO - Application is started.------------
+2014-03-05 16:40:22,962 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:40:22,962 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:40:22,962 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:40:22,962 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:40:22,963 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:40:22,964 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:40:22,964 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:40:22,964 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:40:22,964 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:40:22,964 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:40:22,964 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:40:22,964 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:40:22,965 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:40:22,965 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:40:22,965 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:40:22,965 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:40:22,965 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:40:22,965 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:40:22,966 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:40:22,979 INFO - Connection to ftp is started.
+2014-03-05 16:40:23,924 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:40:24,837 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:40:33,445 INFO - BCP tree was build.
+2014-03-05 16:40:33,446 INFO - Writing bcp file in csv format.
+2014-03-05 16:40:33,733 INFO - Loading csv file content to database.
+2014-03-05 16:40:34,056 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 16:40:34,540 INFO - pimu_mapping1 was cleaned.
+2014-03-05 16:40:34,541 INFO - sqlldr.ctl file was created.
+2014-03-05 16:40:34,541 INFO - runSqlldr.bat file was created.
+2014-03-05 16:40:34,757 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220.
+2014-03-05 16:40:34,757 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:40:34,797 INFO - Statuses were changed.
+2014-03-05 16:40:34,798 INFO - Application finished its work.------------
+2014-03-05 16:40:38,133 INFO - Application is started.------------
+2014-03-05 16:40:38,139 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:40:38,139 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:40:38,140 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:40:38,141 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:40:38,142 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:40:38,142 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:40:38,142 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:40:38,142 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:40:38,142 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:40:38,142 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:40:38,143 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:40:38,157 INFO - Connection to ftp is started.
+2014-03-05 16:40:39,102 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:40:40,017 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:40:47,122 INFO - BCP tree was build.
+2014-03-05 16:40:47,123 INFO - Writing bcp file in csv format.
+2014-03-05 16:40:47,422 INFO - Loading csv file content to database.
+2014-03-05 16:40:47,748 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 16:40:48,237 INFO - pimu_mapping2 was cleaned.
+2014-03-05 16:40:48,238 INFO - sqlldr.ctl file was created.
+2014-03-05 16:40:48,238 INFO - runSqlldr.bat file was created.
+2014-03-05 16:40:48,464 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220.
+2014-03-05 16:40:48,465 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:40:48,504 INFO - Statuses were changed.
+2014-03-05 16:40:48,506 INFO - Application finished its work.------------
+2014-03-05 16:49:55,961 INFO - Application is started.------------
+2014-03-05 16:49:55,968 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:49:55,968 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:49:55,968 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:49:55,968 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:49:55,968 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:49:55,968 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:49:55,968 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:49:55,968 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:49:55,969 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:49:55,970 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:49:55,970 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:49:55,970 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:49:55,970 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:49:55,970 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:49:55,970 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:49:55,971 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:49:55,971 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:49:55,971 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:49:55,971 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:49:55,972 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:49:55,985 INFO - Connection to ftp is started.
+2014-03-05 16:49:56,933 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:49:57,855 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:50:01,093 INFO - BCP tree was build.
+2014-03-05 16:50:01,093 INFO - Writing bcp file in csv format.
+2014-03-05 16:50:01,384 INFO - Loading csv file content to database.
+2014-03-05 16:50:01,709 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 16:50:04,291 INFO - pimu_mapping1 was cleaned.
+2014-03-05 16:50:04,291 INFO - sqlldr.ctl file was created.
+2014-03-05 16:50:04,292 INFO - runSqlldr.bat file was created.
+2014-03-05 16:50:04,556 ERROR - Script was not terminated normal.
+2014-03-05 16:50:04,559 ERROR - Couldn't finish inserting data from bcp file in database. Will try 2 more times.
+java.sql.SQLException: Script was not terminated normal.
+	at thomsonreuters.news.swift.metadata.pimu.db.DataLoader.doInserting(DataLoader.java:84) ~[classes/:na]
+	at thomsonreuters.news.swift.metadata.pimu.db.DataLoader.insertFileDataInDb(DataLoader.java:51) ~[classes/:na]
+	at thomsonreuters.news.swift.metadata.pimu.Application.run(Application.java:35) [classes/:na]
+	at thomsonreuters.news.swift.metadata.pimu.Runner.main(Runner.java:19) [classes/:na]
+2014-03-05 16:50:04,560 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 16:50:04,564 INFO - pimu_mapping1 was cleaned.
+2014-03-05 16:50:04,564 INFO - sqlldr.ctl file was created.
+2014-03-05 16:50:04,565 INFO - runSqlldr.bat file was created.
+2014-03-05 16:50:04,680 ERROR - Script was not terminated normal.
+2014-03-05 16:53:05,727 INFO - Application is started.------------
+2014-03-05 16:53:05,733 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:53:05,733 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:53:05,734 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:53:05,735 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:53:05,736 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:53:05,736 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:53:05,736 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:53:05,736 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:53:05,736 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:53:05,736 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:53:05,737 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:53:05,737 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:53:05,737 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:53:05,751 INFO - Connection to ftp is started.
+2014-03-05 16:53:06,743 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:53:07,668 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:53:10,930 INFO - BCP tree was build.
+2014-03-05 16:53:10,931 INFO - Writing bcp file in csv format.
+2014-03-05 16:53:11,195 INFO - Loading csv file content to database.
+2014-03-05 16:53:11,520 INFO - pimu_mapping1 is currently inactive table.
+2014-03-05 16:53:11,525 INFO - pimu_mapping1 was cleaned.
+2014-03-05 16:53:11,525 INFO - sqlldr.ctl file was created.
+2014-03-05 16:53:11,526 INFO - runSqlldr.bat file was created.
+2014-03-05 16:53:11,786 INFO - Inactive table - pimu_mapping1, number of rows = 28220. Active table - pimu_mapping2, number of rows = 28220.
+2014-03-05 16:53:11,786 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:53:11,825 INFO - Statuses were changed.
+2014-03-05 16:53:11,827 INFO - Application finished its work.------------
+2014-03-05 16:53:38,443 INFO - Application is started.------------
+2014-03-05 16:53:38,449 DEBUG - Found properties-file pimu.properties. Started reading properties.
+2014-03-05 16:53:38,449 DEBUG - Getting property ftp.hostname from properties-file.
+2014-03-05 16:53:38,449 DEBUG - Getting property ftp.login from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property ftp.password from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property ftp.workingDir from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property bcp.rowTerm from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property bcp.rowTermRegexp from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property bcp.fieldTerm from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property bcp.fieldTermRegexp from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property csv.path from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property zip.regexp from properties-file.
+2014-03-05 16:53:38,450 DEBUG - Getting property zip.datePattern from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.attemptsNumber from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.connectionString from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.driverName from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.user from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.password from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.mappingTable1 from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.mappingTable2 from properties-file.
+2014-03-05 16:53:38,451 DEBUG - Getting property db.statusTable from properties-file.
+2014-03-05 16:53:38,452 DEBUG - Getting property db.mappingValidRatio from properties-file.
+2014-03-05 16:53:38,452 DEBUG - Getting property sqlldr.oracleBinDirPath from properties-file.
+2014-03-05 16:53:38,452 DEBUG - Getting property sqlldr.connectionString from properties-file.
+2014-03-05 16:53:38,452 DEBUG - Getting property sqlldr.ctlFilePath from properties-file.
+2014-03-05 16:53:38,452 DEBUG - Getting property sqlldr.logFilePath from properties-file.
+2014-03-05 16:53:38,452 DEBUG - Getting property sqlldr.rowsNumPerOneCommit from properties-file.
+2014-03-05 16:53:38,453 DEBUG - All properties have been read from properties-file pimu.properties.
+2014-03-05 16:53:38,453 INFO - Transferring zip file from ftp is started.
+2014-03-05 16:53:38,466 INFO - Connection to ftp is started.
+2014-03-05 16:53:39,445 INFO - Connection to ftp has been succeeded.
+2014-03-05 16:53:40,405 INFO - Zip archive for today was found - EANORGANIZATION_20140305_0416.zip.
+2014-03-05 16:53:45,016 INFO - BCP tree was build.
+2014-03-05 16:53:45,017 INFO - Writing bcp file in csv format.
+2014-03-05 16:53:45,290 INFO - Loading csv file content to database.
+2014-03-05 16:53:45,608 INFO - pimu_mapping2 is currently inactive table.
+2014-03-05 16:53:46,101 INFO - pimu_mapping2 was cleaned.
+2014-03-05 16:53:46,102 INFO - sqlldr.ctl file was created.
+2014-03-05 16:53:46,102 INFO - runSqlldr.bat file was created.
+2014-03-05 16:53:46,324 INFO - Inactive table - pimu_mapping2, number of rows = 28220. Active table - pimu_mapping1, number of rows = 28220.
+2014-03-05 16:53:46,325 INFO - Mapping is valid. Valid ratio is 0.05.
+2014-03-05 16:53:46,363 INFO - Statuses were changed.
+2014-03-05 16:53:46,365 INFO - Application finished its work.------------

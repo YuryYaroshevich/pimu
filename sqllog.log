@@ -1,11 +1,11 @@
 
-SQL*Loader: Release 10.2.0.1.0 - Production on Fri Feb 28 20:01:00 2014
+SQL*Loader: Release 10.2.0.1.0 - Production on Wed Mar 5 16:53:46 2014
 
 Copyright (c) 1982, 2005, Oracle.  All rights reserved.
 
-Control File:   D:\workspace\pimu\sqlloader.ctl
-Data File:      d:\bcpf.csv
-  Bad File:     D:\workspace\pimu\bcpf.bad
+Control File:   D:/workspace/pimu/sqlldr.ctl
+Data File:      d:/bcp.csv
+  Bad File:     D:/workspace/pimu/bcp.bad
   Discard File:  none specified
  
  (Allow all discards)
@@ -17,7 +17,7 @@ Bind array:     330 rows, maximum of 256000 bytes
 Continuation:    none specified
 Path used:      Conventional
 
-Table PIMU_MAPPING1, loaded from every logical record.
+Table PIMU_MAPPING2, loaded from every logical record.
 Insert option in effect for this table: APPEND
 
    Column Name                  Position   Len  Term Encl Datatype
@@ -27,8 +27,8 @@ EDCOID                               NEXT     *   ,       CHARACTER
 COMMONNAME                           NEXT     *   ,       CHARACTER            
 
 
-Table PIMU_MAPPING1:
-  28225 Rows successfully loaded.
+Table PIMU_MAPPING2:
+  28220 Rows successfully loaded.
   0 Rows not loaded due to data errors.
   0 Rows not loaded because all WHEN clauses were failed.
   0 Rows not loaded because all fields were null.
@@ -38,12 +38,12 @@ Space allocated for bind array:                 255420 bytes(330 rows)
 Read   buffer bytes: 1048576
 
 Total logical records skipped:          0
-Total logical records read:         28225
+Total logical records read:         28220
 Total logical records rejected:         0
 Total logical records discarded:        0
 
-Run began on Fri Feb 28 20:01:00 2014
-Run ended on Fri Feb 28 20:01:00 2014
+Run began on Wed Mar 05 16:53:46 2014
+Run ended on Wed Mar 05 16:53:46 2014
 
-Elapsed time was:     00:00:00.32
-CPU time was:         00:00:00.09
+Elapsed time was:     00:00:00.13
+CPU time was:         00:00:00.08
